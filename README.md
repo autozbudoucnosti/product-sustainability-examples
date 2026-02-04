@@ -1,5 +1,10 @@
 # Product Sustainability & CO2 Scoring Examples
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![API Status](https://img.shields.io/badge/API-Active-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+[![GitHub Stars](https://img.shields.io/github/stars/autozbudoucnosti/product-sustainability-examples?style=for-the-badge)](https://github.com/autozbudoucnosti/product-sustainability-examples/stargazers)
+
 This repository contains **copy-paste recipes** for integrating product sustainability and CO₂ scoring into your apps—whether you're building **e-commerce backends** (e.g. Shopify, WooCommerce) or **AI agents** (e.g. LangChain, custom chatbots). Use these examples as a starting point and adapt them to your stack.
 
 ---
