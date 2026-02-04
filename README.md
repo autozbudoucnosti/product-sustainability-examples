@@ -2,6 +2,8 @@
 
 This repository contains **copy-paste recipes** for integrating product sustainability and CO₂ scoring into your apps—whether you're building **e-commerce backends** (e.g. Shopify, WooCommerce) or **AI agents** (e.g. LangChain, custom chatbots). Use these examples as a starting point and adapt them to your stack.
 
+<img width="632" height="659" alt="Screenshot 2026-02-04 at 21 38 08" src="https://github.com/user-attachments/assets/5f8880a5-96d5-4ea5-89e3-16c6e9f39333" />
+
 ---
 
 ## Getting Started
