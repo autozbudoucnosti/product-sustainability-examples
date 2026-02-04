@@ -8,7 +8,7 @@ This repository contains **copy-paste recipes** for integrating product sustaina
 
 **You need a free API key to run these examples.**
 
-Get your key here: **[YOUR_RAPIDAPI_URL]**
+Get your key here: **https://rapidapi.com/autozbudoucnosti/api/sustainability-impact-assessment-api**
 
 Then either:
 
